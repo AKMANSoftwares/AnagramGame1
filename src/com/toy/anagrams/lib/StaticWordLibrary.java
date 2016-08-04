@@ -132,7 +132,8 @@ final class StaticWordLibrary extends WordLibrary {
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
-
+    
+    String test = "fsdfasd";
     /**
      * Singleton class.
      */
